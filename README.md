@@ -30,3 +30,17 @@ Google Colab, run the cells in order from top to bottom, and review the
 generated tables, graphs, clustering results, and analysis. 
 ## Author 
 **Edward Moswane** 
+
+Edward Moswane Assignment 10: Amazon Alexa Customer Review Sentiment 
+Analysis 
+Assignment 10 covers Random Forest classifier to perform sentiment 
+analysis on Amazon Alexa customer reviews.  
+The notebook includes data loading, preprocessing, exploratory data 
+analysis (EDA), one-hot encoding, text vectorization with 
+CountVectorizer, model training, evaluation using a confusion matrix and 
+classification report, feature importance visualization, and prediction 
+of new review sentiment.  
+To run the code, open the notebook in Google Colab, mount your Google 
+Drive, place the amazon_alexa.tsv dataset is in Google Drive,  
+## Author 
+**Edward Moswane** 

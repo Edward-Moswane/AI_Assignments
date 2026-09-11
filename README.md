@@ -31,7 +31,7 @@ generated tables, graphs, clustering results, and analysis.
 ## Author 
 **Edward Moswane** 
 
-Edward Moswane Assignment 10: Amazon Alexa Customer Review Sentiment 
+# Edward Moswane Assignment 10: Amazon Alexa Customer Review Sentiment 
 Analysis 
 Assignment 10 covers Random Forest classifier to perform sentiment 
 analysis on Amazon Alexa customer reviews.  

@@ -44,3 +44,19 @@ To run the code, open the notebook in Google Colab, mount your Google
 Drive, place the amazon_alexa.tsv dataset is in Google Drive,  
 ## Author 
 **Edward Moswane** 
+
+# Edward Moswane Assignment 11: Image Classification Using Random Forest 
+Assignment 11 covers image classification using a Random Forest machine 
+learning model. The provided image zi file contains dataset: **dalmatian, 
+dollar bill, pizza, soccer ball, and sunflower**. Images were loaded, 
+dataset was divided into training and testing sets, and GridSearchCV 
+was used to find the best Random Forest parameters. The model was 
+evaluated using accuracy, precision, recall, F1-score. A classification 
+report, and a confusion matrix was generated.  
+## How to Run the Notebook 
+Open the Assignment 11 notebook in Google Colab or use the link 
+provided. Load and upload the provided `images.zip` dataset. Ensure to run the 
+notebook cells in order from beginning to end. The notebook will 
+extract the images etc. 
+## Author 
+**Edward Moswane**

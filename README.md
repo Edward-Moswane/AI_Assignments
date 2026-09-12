@@ -60,3 +60,17 @@ notebook cells in order from beginning to end. The notebook will
 extract the images etc. 
 ## Author 
 **Edward Moswane**
+
+# Edward Moswane Assignment 12: Neural Network and Deep Learning Basics 
+The assignment uses the **CIFAR-10 image classification dataset** to 
+build, train, and evaluate a feedforward neural network using 
+TensorFlow.  
+The model was evaluated using accuracy, precision, recall, F1-score, a 
+classification report, and a confusion matrix, and compares the original 
+model with an improved model.  
+In order to run the project successfully, open the notebook in Google 
+Colab, run the cells from top to bottom, and allow the CIFAR-10 dataset 
+to download automatically. Make sure to import libraries TensorFlow, 
+NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn,  
+## Author 
+**Edward Moswane** 
